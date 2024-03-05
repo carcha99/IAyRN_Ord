@@ -1,1 +1,1 @@
-# Inteligencia Articifial y Redes Neuronales
+# Inteligencia Artificial y Redes Neuronales
